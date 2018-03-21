@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>About</title>
+      <link>https://s-brigade.github.io/about/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-brigade.github.io/about/</guid>
+      <description> S-Brigadeは仮想通貨で挑戦します。
+会社概要    項目 内容     商号 S-Brigade合同会社   設立 平成30年2月13日   事業内容 仮想通貨事業   資本金 10万円   ホームページ https://s-brigade.github.io/    </description>
+    </item>
+    
+    <item>
       <title>Hello World</title>
       <link>https://s-brigade.github.io/blog/hello-world/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
@@ -24,19 +34,9 @@ S-Brigadeのことや仮想通貨に関する情報をブログという形で�
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://s-brigade.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://s-brigade.github.io/about/</guid>
-      <description> S-Brigadeは仮想通貨で挑戦します。
-会社概要    項目 内容     商号 S-Brigade合同会社   設立 平成30年2月13日   事業内容 仮想通貨事業   資本金 10万円   ホームページ https://s-brigade.github.io/    </description>
-    </item>
-    
-    <item>
       <title>Home</title>
       <link>https://s-brigade.github.io/home/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://s-brigade.github.io/home/</guid>
       <description></description>

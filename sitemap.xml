@@ -3,12 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://s-brigade.github.io/about/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://s-brigade.github.io/blog/hello-world/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://s-brigade.github.io/about/</loc>
+    <loc>https://s-brigade.github.io/home/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -20,10 +26,6 @@
   <url>
     <loc>https://s-brigade.github.io/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://s-brigade.github.io/home/</loc>
   </url>
   
   <url>
