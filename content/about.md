@@ -1,5 +1,9 @@
 +++
+date = "2018-03-21"
+tags = ["その他"]
 title = "About"
+description = "About"
+author = ""
 +++
 
 S-Brigadeは仮想通貨で挑戦します。
