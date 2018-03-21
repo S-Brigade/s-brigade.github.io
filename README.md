@@ -1,1 +1,0 @@
-# s-brigade.github.io
