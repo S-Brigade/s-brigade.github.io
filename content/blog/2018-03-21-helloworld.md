@@ -4,6 +4,7 @@ tags = ["その他"]
 title = "Hello World"
 description = "Hello World"
 author = ""
+best = false
 +++
 
 Hello World.

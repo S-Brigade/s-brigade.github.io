@@ -1,6 +1,6 @@
 +++
 date = "2018-03-21"
-tags = ["その他"]
+tags = ["未分類"]
 title = "About"
 description = "About"
 author = ""
