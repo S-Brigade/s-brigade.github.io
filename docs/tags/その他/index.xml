@@ -6,19 +6,21 @@
     <description>Recent content in その他 on Web Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://s-brigade.github.io/tags/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>https://s-brigade.github.io/about/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <title>S-BrigadeのSは何？</title>
+      <link>https://s-brigade.github.io/blog/s-brigade%E3%81%AEs%E3%81%AF%E4%BD%95/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://s-brigade.github.io/about/</guid>
-      <description> S-Brigadeは仮想通貨で挑戦します。
-会社概要    項目 内容     商号 S-Brigade合同会社   設立 平成30年2月13日   事業内容 仮想通貨事業   資本金 10万円   ホームページ https://s-brigade.github.io/    </description>
+      <guid>https://s-brigade.github.io/blog/s-brigade%E3%81%AEs%E3%81%AF%E4%BD%95/</guid>
+      <description>みなさんこんにちは。hamada-iです。
+S-BrigadeのSはどういう意味？とよく聞かれます。
+残念なことにSにはいろいろな意味が込められています。SportsやSpecialなど特に1つに限っていません。
+でも、今一番適切なのはSolo(社員1人ぼっち)かもしれません。</description>
     </item>
     
     <item>
@@ -31,15 +33,6 @@
 はじめまして。hamada-iです。
 S-Brigadeのことや仮想通貨に関する情報をブログという形でまとめていこうと思います。
 簡単ですが今回はここまで。</description>
-    </item>
-    
-    <item>
-      <title>Home</title>
-      <link>https://s-brigade.github.io/home/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://s-brigade.github.io/home/</guid>
-      <description></description>
     </item>
     
   </channel>

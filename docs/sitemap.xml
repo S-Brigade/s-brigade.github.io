@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://s-brigade.github.io/home/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://s-brigade.github.io/blog/s-brigade%E3%81%AEs%E3%81%AF%E4%BD%95/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://s-brigade.github.io/about/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
@@ -13,13 +23,13 @@
   </url>
   
   <url>
-    <loc>https://s-brigade.github.io/home/</loc>
+    <loc>https://s-brigade.github.io/license/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://s-brigade.github.io/blog/</loc>
-    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -29,23 +39,25 @@
   </url>
   
   <url>
-    <loc>https://s-brigade.github.io/license/</loc>
-  </url>
-  
-  <url>
     <loc>https://s-brigade.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://s-brigade.github.io/</loc>
-    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://s-brigade.github.io/tags/%E3%81%9D%E3%81%AE%E4%BB%96/</loc>
-    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://s-brigade.github.io/tags/%E6%9C%AA%E5%88%86%E9%A1%9E/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
