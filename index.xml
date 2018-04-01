@@ -6,10 +6,31 @@
     <description>Recent content on Web Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://s-brigade.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Home</title>
+      <link>https://s-brigade.github.io/home/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-brigade.github.io/home/</guid>
+      <description>ブログ更新しました。</description>
+    </item>
+    
+    <item>
+      <title>S-BrigadeのSは何？</title>
+      <link>https://s-brigade.github.io/blog/s-brigade%E3%81%AEs%E3%81%AF%E4%BD%95/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-brigade.github.io/blog/s-brigade%E3%81%AEs%E3%81%AF%E4%BD%95/</guid>
+      <description>みなさんこんにちは。hamada-iです。
+S-BrigadeのSはどういう意味？とよく聞かれます。
+残念なことにSにはいろいろな意味が込められています。SportsやSpecialなど特に1つに限っていません。
+でも、今一番適切なのはSolo(社員1人ぼっち)かもしれません。</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -34,18 +55,9 @@ S-Brigadeのことや仮想通貨に関する情報をブログという形で�
     </item>
     
     <item>
-      <title>Home</title>
-      <link>https://s-brigade.github.io/home/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://s-brigade.github.io/home/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>License</title>
       <link>https://s-brigade.github.io/license/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://s-brigade.github.io/license/</guid>
       <description></description>
