@@ -13,7 +13,7 @@ title = "Web Site"
 disqusshortname = ""
 pluralizelisttitles = false
 
-googleanalytics="UA-116146829-1"
+#googleanalytics=""
 
 [permalinks]
 blog = "blog/:slug/"
