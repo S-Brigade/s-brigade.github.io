@@ -1,9 +1,9 @@
 +++
-date = "2018-04-01"
+date = "2018-04-08"
 tags = ["未分類"]
 title = "Home"
 description = "Home"
 author = ""
 +++
 
-ブログ更新しました。
+4月8日　ブログ更新しました。
