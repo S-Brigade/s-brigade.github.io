@@ -6,10 +6,28 @@
     <description>Recent content in Blog on Web Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://s-brigade.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>S-Brigadeは仮想通貨交換業者？</title>
+      <link>https://s-brigade.github.io/blog/s-brigade%E3%81%AF%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E4%BA%A4%E6%8F%9B%E6%A5%AD%E8%80%85/</link>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-brigade.github.io/blog/s-brigade%E3%81%AF%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E4%BA%A4%E6%8F%9B%E6%A5%AD%E8%80%85/</guid>
+      <description>みなさんこんにちは。hamada-iです。
+S-Brigadeは金融庁の仮想通貨交換業者に登録されているか聞かれることがあります。S-Brigadeの事業内容は仮想通貨事業ですが仮想通貨交換業者ではありません。
+金融庁のHPから引用しますと
+ 国内で仮想通貨と法定通貨との交換サービスを行うには、仮想通貨交換業の登録が必要となりました。
+ https://www.fsa.go.jp/policy/virtual_currency/index_2.html
+とのことですので、仮想通貨と法定通貨を交換しない場合は仮想通貨交換業の登録は不要と捉えることができます。
+しかし、先日、海外の取引所のBinanceが金融庁から警告がありましたね。
+https://www.fsa.go.jp/policy/virtual_currency02/Binance_keikokushilyo.pdf
+Binanceは仮想通貨の取引しか扱っていないのに警告があったのでもう少し深く考察が必要な気がしました。
+https://support.binance.com/hc/en-us/articles/115003783671-Deposit-Fiat-currency</description>
+    </item>
     
     <item>
       <title>S-BrigadeのSは何？</title>

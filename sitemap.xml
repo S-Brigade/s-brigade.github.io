@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://s-brigade.github.io/blog/s-brigade%E3%81%AF%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E4%BA%A4%E6%8F%9B%E6%A5%AD%E8%80%85/</loc>
+    <lastmod>2018-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://s-brigade.github.io/home/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -29,7 +34,7 @@
   
   <url>
     <loc>https://s-brigade.github.io/blog/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -45,13 +50,13 @@
   
   <url>
     <loc>https://s-brigade.github.io/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://s-brigade.github.io/tags/%E3%81%9D%E3%81%AE%E4%BB%96/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
