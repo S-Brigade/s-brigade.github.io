@@ -6,10 +6,19 @@
     <description>Recent content on Web Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 08 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://s-brigade.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Home</title>
+      <link>https://s-brigade.github.io/home/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-brigade.github.io/home/</guid>
+      <description>4月15日　特に無し。</description>
+    </item>
     
     <item>
       <title>S-Brigadeは仮想通貨交換業者？</title>
@@ -27,15 +36,6 @@ S-Brigadeは金融庁の仮想通貨交換業者に登録されているか聞�
 https://www.fsa.go.jp/policy/virtual_currency02/Binance_keikokushilyo.pdf
 Binanceは仮想通貨の取引しか扱っていないのに警告があったのでもう少し深く考察が必要な気がしました。
 https://support.binance.com/hc/en-us/articles/115003783671-Deposit-Fiat-currency</description>
-    </item>
-    
-    <item>
-      <title>Home</title>
-      <link>https://s-brigade.github.io/home/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://s-brigade.github.io/home/</guid>
-      <description>ブログ更新しました。</description>
     </item>
     
     <item>
